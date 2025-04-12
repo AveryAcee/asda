@@ -1,7 +1,9 @@
 # Instalasi Otomatis: Solana + Rust + Bitz
 
 Salin dan jalankan script berikut ini untuk menginstal Rust, Solana CLI, dan Bitz dalam satu langkah:
-
+```bash
+cd $HOME
+```
 ```bash
 apt update && apt install sudo -y
 ````
