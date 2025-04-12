@@ -33,3 +33,6 @@ cargo install bitz
 ```bash
 bitz benchmark 
 ```
+```bash 
+bitz collect -c 8
+```
