@@ -36,3 +36,6 @@ solana config set --url https://eclipse.helius-rpc.com
 ```bash
 cargo install bitz
 ```
+```bash
+bitz benchmark 
+```
