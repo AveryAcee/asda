@@ -25,7 +25,7 @@ source ~/.bashrc
 solana-keygen new
 ```
 ```bash
-solana config set --url https://eclipse.helius-rpc.com
+solana config set --url https://bitz-000.eclipserpc.xyz/
 ```
 ```bash
 cargo install bitz
