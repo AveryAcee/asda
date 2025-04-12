@@ -11,7 +11,7 @@ sudo apt install curl -y
 
 # Instal Rust
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh -s -- -y
-source $HOME/.cargo/env
+. "$HOME/.cargo/env"
 
 # Instal Solana CLI
 curl --proto '=https' --tlsv1.2 -sSfL https://solana-install.solana.workers.dev | bash
