@@ -8,7 +8,7 @@ cd $HOME
 apt update && apt install sudo -y
 ````
 ```bash
-sudo apt install curl -y
+sudo apt install curl nano screen -y
 ```
 ```bash
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh -s -- -y
